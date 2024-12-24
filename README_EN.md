@@ -1677,37 +1677,14 @@ To restart cron with ```sudo systemctl enable cron``` and ```sudo systemctl star
 <img width="1201" alt="image" src="https://github.com/yingzhan11/Born2beroot-Tutorial/assets/153290203/9342b2e5-ab07-4a1e-842f-3594de275b69">
 
 
-## 10- Tester 🆗
-
-Check that you didn't forget anything! Own tester to check that the installation and configuration has been carried out successfully.
-
-[HERE](https://github.com/gemartin99/Born2beroot-Tester)
-
-<img width="440" alt="Screen Shot 2023-03-09 at 3 40 54 AM" src="https://user-images.githubusercontent.com/66915274/223902066-f2f6a059-9df8-4e32-a92a-14c43ff8fb0f.png">
-
 # Author ✍🏼
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mel-adna/"><img src="https://avatars.githubusercontent.com/u/66915274?v=4" width="100px;" alt="100px"/><br /><sub><b>gemartin</b></sub></a><br /><a href="https://profile.intra.42.fr/users/gemartin" title="Intra 42"><img src="https://img.shields.io/badge/Barcelona-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
+    <td align="center"><a href="https://github.com/mel-adna/"><img src="https://avatars.githubusercontent.com/u/66915274?v=4" width="100px;" alt="100px"/><br /><sub><b>gemartin</b></sub></a><br /><a href="https://profile.intra.42.fr/users/mel-adna" title="Intra 42"><img src="https://img.shields.io/badge/Barcelona-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
   </tr>
 </table>
 
-### Partner 👨🏻‍💻
-
-This English version of the guide would not have been possible without the help of [ElPatatin](https://github.com/ElPatatin)
-
-◦ Linkedin: https://www.linkedin.com/in/cristope/
-
-◦ Intra profile: https://profile.intra.42.fr/users/cpeset-c
-
-# Contact 📥
-
-### Contact me if you think I can improve the tutorial! It may help future students! 😁
-
-◦ Email: gemartin@student.42barcelona.com
-
-◦ Linkedin: https://www.linkedin.com/in/gemartin99/
 
 # You might be interested!
 
