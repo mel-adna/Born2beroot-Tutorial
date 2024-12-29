@@ -1,6 +1,5 @@
 <h1 align="center">
-  <span style="font-size: 2em; color: #ff6347;">Hi there 👋, I'm</span> <br />
-  <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; animation: glow 1s ease-in-out infinite alternate; color: #32cd32;">Mohamed El Adnani 👨‍💻</span>
+  <img src="https://your-image-url.com" alt="Mohamed El Adnani" />
 </h1>
 
 <p align="center">
