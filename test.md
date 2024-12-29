@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-glitch-effect-gif-url.com" alt="Glitched Mohamed El Adnani" />
+  <span style="font-size: 3em; font-family: 'Courier New', Courier, monospace; color: #32cd32; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Mohamed El Adnani 👨‍💻</span>
 </h1>
 
 <p align="center">
