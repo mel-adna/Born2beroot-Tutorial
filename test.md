@@ -1,4 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Mohamed El Adnani 👨‍💻</h1>
+<h1 align="center">
+  <span style="font-size: 2em; color: #ff6347">Hi there 👋, I'm</span> <br />
+  <span style="font-size: 3em; color: #32cd32; font-family: 'Courier New', Courier, monospace; animation: glitch 1s infinite;">Mohamed El Adnani 👨‍💻</span>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/42%20Network-Student-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Network Student" />
@@ -8,19 +11,19 @@
 
 ---
 
-I'm a passionate **C language programmer** and a **Cybersecurity enthusiast** with a focus on **systems programming**. Currently navigating the challenging yet exciting world of **1337 School** (part of the prestigious **42 Network**), I thrive on problem-solving and discovering vulnerabilities in complex systems.
+A passionate **C language programmer** and **Cybersecurity enthusiast**, thriving in the challenging environment of **1337 School** (part of the **42 Network**). I enjoy solving complex problems, uncovering security vulnerabilities, and exploring the latest in **ethical hacking** and **systems programming**.
 
 ---
 
-### 🔐 Current Focus in Cybersecurity
+### 🔐 **Current Cybersecurity Focus**
 
-- 🔥 **Hacking** and **Penetration Testing** in C.
-- 🛠️ **Linux Security**: Tools, exploits, and system hardening.
-- 🕵️‍♂️ Mastering **Algorithms** for better **cryptography** and **network defense**.
+- 🔥 **Mastering Penetration Testing** using advanced **C** techniques.
+- 🛠️ **Exploring Network Security** and cryptographic algorithms.
+- 🚀 **Red Teaming** and **exploit development** to secure vulnerable systems.
 
 ---
 
-### 📫 Let's Connect
+### 📫 **Let's Connect**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-el-adnani-184a48343/" target="_blank">
@@ -30,7 +33,7 @@ I'm a passionate **C language programmer** and a **Cybersecurity enthusiast** wi
 
 ---
 
-### 🖥️ My Setup
+### 🖥️ **My Setup**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
