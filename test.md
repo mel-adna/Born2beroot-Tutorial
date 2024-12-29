@@ -1,6 +1,16 @@
 <h1 align="center">
-  <img src="https://your-image-url.com" alt="Mohamed El Adnani" />
+  <pre>
+
+ ______        _                          _    _______ _              _                   _ 
+|  ___ \      | |                        | |  (_______) |            | |                 (_)
+| | _ | | ___ | | _   ____ ____   ____ _ | |   _____  | |    ____  _ | |____   ____ ____  _ 
+| || || |/ _ \| || \ / _  |    \ / _  ) || |  |  ___) | |   / _  |/ || |  _ \ / _  |  _ \| |
+| || || | |_| | | | ( ( | | | | ( (/ ( (_| |  | |_____| |  ( ( | ( (_| | | | ( ( | | | | | |
+|_||_||_|\___/|_| |_|\_||_|_|_|_|\____)____|  |_______)_|   \_||_|\____|_| |_|\_||_|_| |_|_|
+                                                                                            
+  </pre>
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/42%20Network-Student-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Network Student" />
