@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-image-url.com" alt="Mohamed El Adnani" />
+  <img src="https://your-glitch-effect-gif-url.com" alt="Glitched Mohamed El Adnani" />
 </h1>
 
 <p align="center">
