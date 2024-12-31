@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ARCH
-arch=$(uname -a)
+arch=$(uname -a | sed 's/PREEMPT_DYNAMIC //')
 
 # CPU PHYSICAL
 cpuf=$(grep "physical id" /proc/cpuinfo | wc -l)
@@ -34,7 +34,7 @@ lvmu=$(if [ $(lsblk | grep "lvm" | wc -l) -gt 0 ]; then echo yes; else echo no; 
 tcpc=$(ss -ta | grep ESTAB | wc -l)
 
 # USER LOG
-ulog=$(users | wc -w)
+ulog=$(who |cut -d " " -f 1 | sort -u | wc -l)
 
 # NETWORK
 ip=$(hostname -I)
@@ -43,15 +43,15 @@ mac=$(ip link | grep "link/ether" | awk '{print $2}')
 # SUDO
 cmnd=$(journalctl _COMM=sudo | grep COMMAND | wc -l)
 
-wall "	Architecture: $arch
-	CPU physical: $cpuf
-	vCPU: $cpuv
-	Memory Usage: $ram_use/${ram_total}MB ($ram_percent%)
-	Disk Usage: $disk_use/${disk_total} ($disk_percent%)
-	CPU load: $cpu_fin%
-	Last boot: $lb
-	LVM use: $lvmu
-	Connections TCP: $tcpc ESTABLISHED
-	User log: $ulog
-	Network: IP $ip ($mac)
-	Sudo: $cmnd cmd"
+wall "    #Architecture: $arch
+    #CPU physical: $cpuf
+    #vCPU: $cpuv
+    #Memory Usage: $ram_use/${ram_total}MB ($ram_percent%)
+    #Disk Usage: $disk_use/${disk_total} ($disk_percent%)
+    #CPU load: $cpu_fin%
+    #Last boot: $lb
+    #LVM use: $lvmu
+    #Connections TCP: $tcpc ESTABLISHED
+    #User log: $ulog
+    #Network: IP $ip ($mac)
+    #Sudo: $cmnd cmd"
