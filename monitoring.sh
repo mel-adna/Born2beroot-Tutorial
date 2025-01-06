@@ -4,7 +4,7 @@
 arch=$(uname -a | sed 's/PREEMPT_DYNAMIC //')
 
 # CPU PHYSICAL
-cpuf=$(grep "physical id" /proc/cpuinfo | wc -l)
+cpuf=$(cat /proc/cpuinfo | grep "physical id" | uniq | wc -l)
 
 # CPU VIRTUAL
 cpuv=$(grep "processor" /proc/cpuinfo | wc -l)
